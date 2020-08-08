@@ -9,11 +9,11 @@ MinecraftServerChat是一个公益项目
 # 安装:
 * 点击链接下载最新版DiscordSRV(1.7-1.16) [点击下载](https://www.spigotmc.org/resources/discordsrv.18494/download?version=342961)  
 * [点击提交申请](https://github.com/1368139692/MinecraftServerChat-Bot/issues) 申请格式如下:  
-  ### 标题:申请入驻MSC论坛  
-    服务器名称:  
-    服务器地址:  
-    玩法:  (填"生存/RPG/小游戏/创造")  
-    核心版本:  
-    可进入版本:  
-    正版验证:  (填"有/无")  
-    白名单:   (填"有/无")  
+### 标题:申请入驻MSC论坛  
+  服务器名称:  
+  服务器地址:  
+  玩法:  (填"生存/RPG/小游戏/创造")  
+  核心版本:  
+  可进入版本:  
+  正版验证:  (填"有/无")  
+  白名单:   (填"有/无")  
