@@ -6,7 +6,7 @@
 * 让新玩家在不进入服务器的前提下  
 * 更快更全面的了解服务器给玩家留下一个好印象  
 * 给各位服主们提供一个精简易管理的官网/社区  
-* 让更多人品尝到Discord的乐趣
+* 让更多人品尝到Discord的乐趣  
 # 安装:
 * 点击链接下载最新版DiscordSRV(1.7-1.16) [点击下载](https://www.spigotmc.org/resources/discordsrv.18494/download?version=342961)  
 * [点击加群提交申请](https://qm.qq.com/cgi-bin/qm/qr?k=9RUcAdkDc_KlwnLHS7sI_RJo3CzWlcE1&jump_from=webapi) 申请格式如下:   
@@ -17,6 +17,6 @@
     可进入版本:  
     正版验证:  (填"有/无")  
     白名单:   (填"有/无")  
-* 验证后等待管理员添加频道
-* 频道添加后管理员会将已经配置好的DiscordSRV配置文件和链接发送给您
+* 验证后等待管理员添加频道  
+* 频道添加后管理员会将已经配置好的DiscordSRV配置文件和链接发送给您  
 * 将配置文件替换后就能享受网页聊天了  
