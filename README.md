@@ -1,6 +1,1 @@
-# MinecraftServerChat-Bot
-用于同步服务器和DC消息
-用法：  
-点击链接下载DiscordSRV:https://www.spigotmc.org/resources/discordsrv.18494/  
-然后下载文件代码里的DiscordSRV压缩包  
-
+[MSC](https://ftp.bmp.ovh/imgs/2020/08/07363836b16f7d92.png "同步服务器和DC信息")
