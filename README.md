@@ -9,7 +9,7 @@
 * 让更多人品尝到Discord的乐趣  
 # 安装:
 * 点击链接下载最新版DiscordSRV(1.7-1.16) [点击下载](https://www.spigotmc.org/resources/discordsrv.18494/download?version=342961)  
-* [点击加群提交申请](https://qm.qq.com/cgi-bin/qm/qr?k=9RUcAdkDc_KlwnLHS7sI_RJo3CzWlcE1&jump_from=webapi) 申请格式如下:   
+* [点击加群提交申请](https://jq.qq.com/?_wv=1027&k=1DLmHUSW) 申请格式如下:   
     服务器名称:  
     服务器地址:  
     玩法:  (填"生存/RPG/小游戏/创造")  
